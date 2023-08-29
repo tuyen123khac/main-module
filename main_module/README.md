@@ -1,16 +1,11 @@
 # main_module
 
-A new Flutter project.
+Test submodule
 
-## Getting Started
+## Command
 
-This project is a starting point for a Flutter application.
+Clone repo with all submodules: git clone {repo} --recurse-submodules
 
-A few resources to get you started if this is your first Flutter project:
+Clone simgle submodule: git submodule update --init
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Demo submodule: git@github.com:tuyen123khac/flutter-learning-practice.git
