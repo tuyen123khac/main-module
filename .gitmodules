@@ -1,6 +1,0 @@
-[submodule "core"]
-	path = core
-	url = git@github.com:tuyen123khac/flutter-tdd.git
-[submodule "sdk"]
-	path = adws
-	url = git@github.com:tuyen123khac/flutter-learning-practice.git
